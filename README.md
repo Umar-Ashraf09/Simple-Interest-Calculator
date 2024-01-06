@@ -14,7 +14,7 @@ Welcome to the Simple Interest (SI) Calculator! This web application helps you c
 
 ## Preview
 
-![SI Calculator](https://github.com/Umar-Ashraf09/Simple-Interest-Calculator/assets/92431008/753f4042-e98b-4acb-bed5-da9373f5aa33)
+![Simple Interest Calculator](https://github.com/Umar-Ashraf09/Simple-Interest-Calculator/assets/92431008/3c47fea1-6231-43be-bc9f-a0a2d779a73f)
 
 
 ## Technologies Used
